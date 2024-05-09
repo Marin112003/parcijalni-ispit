@@ -1,0 +1,34 @@
+{
+  "name": "Design",
+  "short_name": "index",
+  "description": "Progressive Web App that lists games submitted to the A-Frame category in the js13kGames 2017 competition.",
+  "icons": [
+    {
+      "src": "background.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "bar.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "earth.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "header.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "tab_back.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "http://127.0.0.1:5500/dada/index.html",
+  "display": "fullscreen"
+}
